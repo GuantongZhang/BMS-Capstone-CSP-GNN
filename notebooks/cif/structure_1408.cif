@@ -1,0 +1,55 @@
+#############################################
+# Avant-garde Materials Simulation           
+#############################################
+
+data_g1408
+_cell_length_a 7.3194717354
+_cell_length_b 8.1259245204
+_cell_length_c 7.6620654721
+_cell_angle_alpha 90.0000000000
+_cell_angle_beta 113.7074255303
+_cell_angle_gamma 90.0000000000
+_cell_volume 417.2622945397
+_exptl_crystal_density_diffrn 1.0201277629
+_total_energy -5683.3100019331
+_electrostatic_energy 0.0000000000
+_vdw_energy -49.6773859508
+_bond_energy 0.0000000000
+_angle_energy 0.0000000000
+_stretch_bend_coupling_energy 0.0000000000
+_torsion_energy 0.0000000000
+_inversion_energy 0.0000000000
+_last_operation minimize_crystal_energy
+_last_operation_comment none
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C c'
+_symmetry_Int_Tables_number 9
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,-y,z+1/2
+3 x+1/2,y+1/2,z
+4 x+1/2,-y+1/2,z+1/2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_fftype
+_atom_site_charge
+_atom_site_hybridization
+C1_0 C -0.5686145294 -0.2639657533 -0.5931957171 C4 -0.2673638110 SP3
+H1_0 H -0.4946569223 -0.1684920802 -0.6430228760 H 0.1423097670 UNKNOWN
+H2_0 H -0.4578207485 -0.3145504757 -0.4595530751 H 0.1423097670 UNKNOWN
+H3_0 H -0.6901456188 -0.2069181505 -0.5644748744 H 0.1423097670 UNKNOWN
+O1_0 O -0.6448529543 -0.3898616282 -0.7362230406 O2 -0.5855322470 SP3
+H4_0 H -0.6116027853 -0.4991285926 -0.6684435686 H 0.4259667570 UNKNOWN
+H2_1 H -0.2115200028 -0.3670823244 -0.6218371851 H 0.1423097670 UNKNOWN
+C1_1 C -0.0563143358 -0.3243997559 -0.5753528392 C4 -0.2673638110 SP3
+H1_1 H -0.0106352818 -0.3392745525 -0.6943746682 H 0.1423097670 UNKNOWN
+H3_1 H 0.0411090422 -0.4020040686 -0.4563945866 H 0.1423097670 UNKNOWN
+O1_1 O -0.0351369772 -0.1541918506 -0.5220763021 O2 -0.5855322470 SP3
+H4_1 H -0.0768912525 -0.1371387827 -0.4130017573 H 0.4259667570 UNKNOWN
+#END

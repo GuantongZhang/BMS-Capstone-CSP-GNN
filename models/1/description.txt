@@ -1,0 +1,4 @@
+cutoff=5 angstroms,
+lr=0.001,
+epochs=100,
+early_stop=False

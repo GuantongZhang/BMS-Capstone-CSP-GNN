@@ -1,0 +1,11 @@
+# Python 3.10.13
+
+matplotlib==3.10.0
+numpy==1.26.0
+pandas==2.2.3
+scikit-learn==1.6.1
+scipy==1.15.1
+torch==2.6.0
+torch-geometric==2.6.1
+torch-scatter==2.1.2
+torchvision==0.21.0

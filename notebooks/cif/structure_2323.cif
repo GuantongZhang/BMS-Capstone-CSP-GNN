@@ -1,0 +1,59 @@
+#############################################
+# Avant-garde Materials Simulation           
+#############################################
+
+data_g2323
+_cell_length_a 7.2065428059
+_cell_length_b 4.3408144618
+_cell_length_c 26.5916204747
+_cell_angle_alpha 90.0000000000
+_cell_angle_beta 93.7902546630
+_cell_angle_gamma 90.0000000000
+_cell_volume 830.0266494519
+_exptl_crystal_density_diffrn 1.0256558663
+_total_energy -11375.7852650303
+_electrostatic_energy 0.0000000000
+_vdw_energy -101.9284229780
+_bond_energy 0.0000000000
+_angle_energy 0.0000000000
+_stretch_bend_coupling_energy 0.0000000000
+_torsion_energy 0.0000000000
+_inversion_energy 0.0000000000
+_last_operation minimize_crystal_energy
+_last_operation_comment none
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,-z+1/2
+3 -x,-y,-z
+4 x,-y,z+1/2
+5 x+1/2,y+1/2,z
+6 -x+1/2,y+1/2,-z+1/2
+7 -x+1/2,-y+1/2,-z
+8 x+1/2,-y+1/2,z+1/2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_fftype
+_atom_site_charge
+_atom_site_hybridization
+C1_0 C -0.8205167290 -0.2013891557 -0.8108229887 C4 -0.2673638110 SP3
+H1_0 H -0.7188704322 -0.3809020339 -0.8187624409 H 0.1423097670 UNKNOWN
+H2_0 H -0.8775875332 -0.2501644798 -0.7741955454 H 0.1423097670 UNKNOWN
+H3_0 H -0.7486614853 0.0219035598 -0.8085368983 H 0.1423097670 UNKNOWN
+O1_0 O -0.9669778863 -0.1869715273 -0.8499877401 O2 -0.5855322470 SP3
+H4_0 H -0.9709801448 -0.3868253378 -0.8697480538 H 0.4259667570 UNKNOWN
+H3_1 H -0.5655487457 0.2722607611 -1.0211761578 H 0.1423097670 UNKNOWN
+C1_1 C -0.6415848305 0.2049821484 -1.0568334091 C4 -0.2673638110 SP3
+H1_1 H -0.7050349104 -0.0222912438 -1.0519079695 H 0.1423097670 UNKNOWN
+H2_1 H -0.7528427423 0.3731385421 -1.0659665007 H 0.1423097670 UNKNOWN
+O1_1 O -0.5169026267 0.1862529670 -1.0965448933 O2 -0.5855322470 SP3
+H4_1 H -0.5230790100 0.3856659177 -1.1164303370 H 0.4259667570 UNKNOWN
+#END

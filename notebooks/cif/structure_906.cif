@@ -1,0 +1,61 @@
+#############################################
+# Avant-garde Materials Simulation           
+#############################################
+
+data_g906
+_cell_length_a 14.4795430843
+_cell_length_b 14.4445477589
+_cell_length_c 4.2475426831
+_cell_angle_alpha 90.0000000000
+_cell_angle_beta 90.0000000000
+_cell_angle_gamma 90.0000000000
+_cell_volume 888.3754703958
+_exptl_crystal_density_diffrn 0.9582904195
+_total_energy -11368.6498989291
+_electrostatic_energy 0.0000000000
+_vdw_energy -92.2027108497
+_bond_energy 0.0000000000
+_angle_energy 0.0000000000
+_stretch_bend_coupling_energy 0.0000000000
+_torsion_energy 0.0000000000
+_inversion_energy 0.0000000000
+_last_operation minimize_crystal_energy
+_last_operation_comment none
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'F d d 2'
+_symmetry_Int_Tables_number 43
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,z
+3 x+1/4,-y+1/4,z+1/4
+4 -x+1/4,y+1/4,z+1/4
+5 x,y+1/2,z+1/2
+6 -x,-y+1/2,z+1/2
+7 x+1/4,-y+3/4,z+3/4
+8 -x+1/4,y+3/4,z+3/4
+9 x+1/2,y,z+1/2
+10 -x+1/2,-y,z+1/2
+11 x+3/4,-y+1/4,z+3/4
+12 -x+3/4,y+1/4,z+3/4
+13 x+1/2,y+1/2,z
+14 -x+1/2,-y+1/2,z
+15 x+3/4,-y+3/4,z+1/4
+16 -x+3/4,y+3/4,z+1/4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_fftype
+_atom_site_charge
+_atom_site_hybridization
+C1_0 C -0.4670310146 -0.3846426359 -0.5991083296 C4 -0.2673638110 SP3
+H1_0 H -0.4213791946 -0.4148214914 -0.7779213311 H 0.1423097670 UNKNOWN
+H2_0 H -0.5380552461 -0.4091901682 -0.6404178520 H 0.1423097670 UNKNOWN
+H3_0 H -0.4439254452 -0.4094600652 -0.3668392725 H 0.1423097670 UNKNOWN
+O1_0 O -0.4605465973 -0.2856893329 -0.6189332613 O2 -0.5855322470 SP3
+H4_0 H -0.4913872857 -0.2581236650 -0.4264935367 H 0.4259667570 UNKNOWN
+#END
